@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MVC4DotNet40/bin
+/MVC4DotNet40/obj
+/MVC4DotNet45/bin
+/MVC4DotNet45/obj
+/packages
+*.suo
+*.user
